@@ -15,7 +15,7 @@
 ## Front-end
 ➤ Html, Css e Javascript
 
-Implantação
+## Implantação
 
 Link da aplicação : https://lucascosta-code23.github.io/projeto-listagem-pokemon/
 
