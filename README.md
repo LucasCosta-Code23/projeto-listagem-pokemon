@@ -8,7 +8,8 @@
 
 ## Mobile
 
-<img src="https://github.com/LucasCosta-Code23/projeto-listagem-pokemon/blob/main/src/imagens/Mobile1.jpg" width="210" height="430"> <img src="https://github.com/LucasCosta-Code23/projeto-listagem-pokemon/blob/main/src/imagens/Mobile2.jpg" width="210" height="430"> <img src="https://github.com/LucasCosta-Code23/projeto-listagem-pokemon/blob/main/src/imagens/Mobile3.jpg" width="210" height="430"> <img src="https://github.com/LucasCosta-Code23/projeto-listagem-pokemon/blob/main/src/imagens/Mobile5.jpg" width="210" height="430"> 
+<img src="https://github.com/LucasCosta-Code23/projeto-listagem-pokemon/blob/main/src/imagens/Mobile1.jpg" width="210" height="430"> <img src="https://github.com/LucasCosta-Code23/projeto-listagem-pokemon/blob/main/src/imagens/Mobile2.jpg" width="210" height="430"> 
+<img src="https://github.com/LucasCosta-Code23/projeto-listagem-pokemon/blob/main/src/imagens/Mobile3.jpg" width="210" height="430"> <img src="https://github.com/LucasCosta-Code23/projeto-listagem-pokemon/blob/main/src/imagens/Mobile5.jpg" width="210" height="430"> 
 
 # Tecnologias utilizadas
 
