@@ -4,7 +4,7 @@
 
 ## Web
 
-<img src="https://github.com/LucasCosta-Code23/projeto-listagem-pokemon/blob/main/src/imagens/TelaInicialModoPadr%C3%A3o.png" width="680" height="380"> <img src="https://github.com/LucasCosta-Code23/projeto-listagem-pokemon/blob/main/src/imagens/TelaIniciaModoEscuro.png" width="680" height="380"> 
+<img src="https://github.com/LucasCosta-Code23/projeto-listagem-pokemon/blob/main/src/imagens/TelaInicialModoPadr%C3%A3o.png" width="680" height="340"> <img src="https://github.com/LucasCosta-Code23/projeto-listagem-pokemon/blob/main/src/imagens/TelaIniciaModoEscuro.png" width="680" height="340"> 
 
 ## Mobile
 
